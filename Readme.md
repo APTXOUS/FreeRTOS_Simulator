@@ -1,4 +1,4 @@
-# DEMO Simlulator Project of FreeRTOS 
+# FreeRTOS_Simulator
 
 This is a demo project of simlulator for FreeRTOS v10.3.1.
 
